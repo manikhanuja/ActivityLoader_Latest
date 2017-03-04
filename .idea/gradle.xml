@@ -10,6 +10,7 @@
           <set>
             <option value="$USER_HOME$/AndroidStudioProjects/ActivityLoader" />
             <option value="$USER_HOME$/AndroidStudioProjects/ActivityLoader/app" />
+            <option value="$USER_HOME$/AndroidStudioProjects/ActivityLoader/mybrowser" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

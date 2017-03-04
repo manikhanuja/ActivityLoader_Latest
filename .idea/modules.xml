@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$USER_HOME$/AndroidStudioProjects/ActivityLoader/ActivityLoader.iml" filepath="$USER_HOME$/AndroidStudioProjects/ActivityLoader/ActivityLoader.iml" />
       <module fileurl="file://$USER_HOME$/AndroidStudioProjects/ActivityLoader/app/app.iml" filepath="$USER_HOME$/AndroidStudioProjects/ActivityLoader/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/AndroidStudioProjects/ActivityLoader/mybrowser/mybrowser.iml" filepath="$USER_HOME$/AndroidStudioProjects/ActivityLoader/mybrowser/mybrowser.iml" />
     </modules>
   </component>
 </project>
